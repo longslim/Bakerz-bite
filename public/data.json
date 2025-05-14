@@ -1,0 +1,352 @@
+{
+    "products" : {
+        "cakes" : [
+            {
+                "name": "Chocolate-Cake",
+                "img": [
+
+                    "https://i.postimg.cc/pX27p8Wk/download-1.jpg",
+                    "https://i.postimg.cc/NMZdb9m9/download-2.jpg",
+                    "https://i.postimg.cc/8zWNbMvW/download.jpg",
+                    "https://i.postimg.cc/nMbwVjLb/download-4.jpg",
+                    "https://i.postimg.cc/d0pfNxKV/download-5.jpg"
+
+                ],
+                "description": "flavored with melted chocolate",
+                "specification": "flour, sugar, cocoa powder, leavening agents (baking powder or baking soda), eggs, a liquid (milk, buttermilk, or water), and a fat (butter, oil, or a combination)"
+
+            },
+            {
+                "name": "Butter-Cake",
+                "img": [
+                    "https://i.postimg.cc/rpk0G8DV/download-6.jpg",
+                    "https://i.postimg.cc/K8rv2tYb/download-7.jpg",
+                    "https://i.postimg.cc/ZKzWzbLr/download-8.jpg",
+                    "https://i.postimg.cc/1RHksMGJ/images-2.jpg",
+                    "https://i.postimg.cc/T3rqvNmP/images-3.jpg",
+                    "https://i.postimg.cc/zGn7SKmb/images-1.jpg"
+                ],
+                "description": "a rich, moist, and flavorful cake made with butter, flour, sugar, eggs, and a leavening agent like baking powder",
+                "specification": "all-purpose flour, granulated sugar, softened butter, eggs, baking powder, salt, and a liquid like milk or buttermilk"
+
+            },
+            {
+                "name": "Red-Velvet-Cake",
+                "img": [
+                    "https://i.postimg.cc/0Q6KvxyD/download-9.jpg",
+                    "https://i.postimg.cc/zBn5KPd4/download-11.jpg",
+                    "https://i.postimg.cc/cJSF69nv/download-14.jpg",
+                    "https://i.postimg.cc/DzxqBcxZ/images-5.jpg",
+                    "https://i.postimg.cc/3w0Kc8Bv/download-12.jpg",
+                    "https://i.postimg.cc/7PWx1TDN/images-4.jpg"
+                    
+                ],
+                "description": "a red-colored layer cake with cream cheese or ermine icing",
+                "specification": "flour, sugar, cocoa powder, buttermilk, eggs, baking soda, baking powder, and red food coloring"
+
+            },
+            {
+                "name": "Vanila-Cake",
+                "img": [
+                    "https://i.postimg.cc/B6snPWTP/images-7.jpg",
+                    "https://i.postimg.cc/HL07h935/download-15.jpg",
+                    "https://i.postimg.cc/8cbG8s9Z/images-8.jpg",
+                    "https://i.postimg.cc/v802KWSp/download-16.jpg",
+                    "https://i.postimg.cc/XYLgZ3St/images-10.jpg",
+                    "https://i.postimg.cc/Pq8Ngz4K/images-9.jpg"
+                    
+                ],
+                "description": "this classic cake is flavorful and has a tender and moist crumb",
+                "specification": "flour, sugar, leavening agents (like baking powder and baking soda), eggs, a liquid (like milk or buttermilk), and a fat (like butter or oil), along with vanilla extract for flavor"
+
+            },
+            {
+                "name": "Fruit-Cake",
+                "img": [
+                    "https://i.postimg.cc/PrYHnVsC/download-17.jpg",
+                    "https://i.postimg.cc/zBZw6fnb/download-21.jpg",
+                    "https://i.postimg.cc/kXvntYjk/download-24.jpg",
+                    "https://i.postimg.cc/RFdRtBHW/download-18.jpg",
+                    "https://i.postimg.cc/rsSt4GbQ/download-19.jpg"
+                    
+                ],
+                "description": "a dense, sweet cake traditionally made with candied or dried fruits, nuts, and spices",
+                "specification": "a base of flour, sugar, eggs, and butter, with a generous addition of dried fruits like raisins, currants, and mixed peel. Spices such as cinnamon, nutmeg, and allspice are also common, along with nuts like walnuts or almonds"
+
+            },
+            {
+                "name": "Chessecake-Cake",
+                "img": [
+                    "https://i.postimg.cc/J7q0NkkG/download-1.jpg",
+                    "https://i.postimg.cc/1zQ17WxP/download.jpg",
+                    "https://i.postimg.cc/kXWmNrZw/images-1.jpg",
+                    "https://i.postimg.cc/Twb78xn4/images-2.jpg",
+                    "https://i.postimg.cc/Hxm5x1fK/images-3.jpg",
+                    "https://i.postimg.cc/Gh64t1DQ/images.jpg"
+                    
+                    
+                    
+                ],
+                "description": "a dessert characterized by its rich, creamy, and sometimes tangy filling, typically made with cheese, eggs, and sugar, often set over a crust",
+                "specification": "cream cheese, eggs, sugar, sour cream, and vanilla extract"
+
+            }
+        ],
+        "pastries" : [
+            {
+                "name": "Croissant-Pastries",
+                "img": [
+                    "https://i.postimg.cc/gjcqLns6/download-1.jpg",
+                    "https://i.postimg.cc/t4D2j10f/download.jpg",
+                    "https://i.postimg.cc/qqzdsfsB/images-1.jpg",
+                    "https://i.postimg.cc/sgyGJKLd/images-2.jpg",
+                    "https://i.postimg.cc/d34pS59H/images.jpg"
+                    
+                ],
+                "description": "a crescent-shaped, flaky pastry traditionally made with laminated dough, where layers of butter are incorporated into the dough",
+                "specification": " laminated yeast dough, requiring flour, sugar, salt, yeast, milk, water, and butter. A key ingredient is the butter, which is used for both the dough and as a layer within the dough to create the flaky texture"
+
+            },
+            {
+                "name": "Chocolate-Pastries",
+                "img": [
+                    "https://i.postimg.cc/hjyVyYY3/images-3.jpg",
+                    "https://i.postimg.cc/HLLNVqb6/images-4.jpg",
+                    "https://i.postimg.cc/2jdxNHZy/images-5.jpg",
+                    "https://i.postimg.cc/yxNx5YRF/images-6.jpg"
+                    
+                ],
+                "description": "baked goods that incorporate chocolate in their flavor and/or appearance",
+                "specification": "flour, sugar, eggs, and butter, plus cocoa powder for the chocolate flavor"
+
+            },
+            {
+                "name": "Donuts",
+                "img": [
+                    "https://i.postimg.cc/G2G6CkFR/download-2.jpg",
+                    "https://i.postimg.cc/QM5f9jHk/images-8.jpg",
+                    "https://i.postimg.cc/zv9LgYLK/images-9.jpg",
+                    "https://i.postimg.cc/K891PTgm/images-10.jpg"
+                    
+                ],
+                "description": "a popular fried pastry, typically ring-shaped with a hole in the center",
+                "specification": "flour, sugar, eggs, and some form of fat or leavening agent. Additional ingredients like milk, buttermilk, salt, vanilla extract, and spices"
+
+            },
+            {
+                "name": "Danish-Pastries",
+                "img": [
+                    "https://i.postimg.cc/K8bWPkhp/download-3.jpg",
+                    "https://i.postimg.cc/8znh194d/download-4.jpg",
+                    "https://i.postimg.cc/Ghm8HzHX/download-5.jpg",
+                    "https://i.postimg.cc/0jbvq6y0/download-6.jpg",
+                    "https://i.postimg.cc/Jh0CXDbV/images-7.jpg"
+                    
+                ],
+                "description": "sweet, laminated pastries, often characterized by their flaky, buttery texture and variety of fillings and toppings",
+                "specification": "flour, yeast, milk, eggs, sugar, and a large amount of butter or margarine. The dough is rolled out, layered with butter, and folded repeatedly to create multiple layers"
+
+            },
+            {
+                "name": "Cinnamon-Roll-Pastries",
+                "img": [
+                    "https://i.postimg.cc/J4sTjNFQ/cinnamon-thing-25.jpg",
+                    "https://i.postimg.cc/GptxGYqC/images-1.jpg",
+                    "https://i.postimg.cc/nr2X3Shw/images-2.jpg",
+                    "https://i.postimg.cc/BQtZWnYv/images-3.jpg",
+                    "https://i.postimg.cc/Z5kGfbX2/images.jpg"
+                    
+                ],
+                "description": "soft, fluffy dough filled with a cinnamon-sugar mixture, often topped with a cream cheese or sugar glaze",
+                "specification": "a dough, a cinnamon filling, and optionally a glaze or icing. The dough often includes flour, yeast, milk, butter, sugar, and eggs. The filling usually features butter, brown sugar, and cinnamon, with variations including other spices like cardamom or nutmeg. A cream cheese glaze or a simple powdered sugar glaze can be added on top"
+
+            },
+            {
+                "name": "Biscuit-Pastry-Pastries",
+                "img": [
+                    "https://i.postimg.cc/yd9HLwxV/download-1.jpg",
+                    "https://i.postimg.cc/ZYcgJT1G/download-2.jpg",
+                    "https://i.postimg.cc/7LkMCzzm/download.jpg",
+                    "https://i.postimg.cc/pdW5bJzb/images-1.jpg",
+                    "https://i.postimg.cc/Z5TrPdjR/images.jpg"
+                    
+                ],
+                "description": "small, quick breads, typically made with flour, fat (like butter or shortening), and a leavening agent like baking powder or baking soda",
+                "specification": "flour, fat (like butter or shortening), a liquid (like milk or buttermilk), and leavening agents (like baking powder)"
+
+            }
+        ],
+        "cookies" : [
+            {
+                "name": "Chocolate-Cookies",
+                "img": [
+
+                    "https://i.postimg.cc/DZ9RN4hb/download-4.jpg",
+                    "https://i.postimg.cc/Kc55wgmS/download-5.jpg",
+                    "https://i.postimg.cc/Bn2b72G2/images-1.jpg",
+                    "https://i.postimg.cc/4xnkmgWy/images-2.jpg",
+                    "https://i.postimg.cc/1XR72GTX/images.jpg"
+                    
+                ],
+                "description": "buttery flavor and the inclusion of chocolate chips",
+                "specification": "butter (or shortening), sugar (both white and brown), flour, cocoa powder, baking soda, eggs, and vanilla extract"
+
+            },
+            {
+                "name": "Shortbread-Cookies",
+                "img": [
+                    "https://i.postimg.cc/90J9gZ5W/download-1.jpg",
+                    "https://i.postimg.cc/Yq0Lq4BW/download.jpg",
+                    "https://i.postimg.cc/xCdnyzRG/images-1.jpg",
+                    "https://i.postimg.cc/nMby5jvP/images-2.jpg",
+                    "https://i.postimg.cc/nLrnqmT4/images.jpg"
+                ],
+                "description": "a traditional Scottish biscuit or cookie characterized by their crumbly, melt-in-your-mouth texture and rich, buttery flavor",
+                "specification": "made from one part white sugar, two parts butter and three to four parts plain wheat flour"
+
+            },
+            {
+                "name": "Sandwich-Cookies",
+                "img": [
+                    "https://i.postimg.cc/JnBBm0DL/download-1.jpg",
+                    "https://i.postimg.cc/7hHD9QyW/download-2.jpg",
+                    "https://i.postimg.cc/CL9XL6Qp/download-3.jpg",
+                    "https://i.postimg.cc/rFWXWkWw/download.jpg",
+                    "https://i.postimg.cc/tTVDfX91/images.jpg"
+                    
+                ],
+                "description": "a type of cookie that consists of two smaller cookies or wafers, joined together with a layer of filling",
+                "specification": ""
+
+            },
+            {
+                "name": "Butter-Cookies",
+                "img": [
+                    "https://i.postimg.cc/1tJRkZMQ/download-1.jpg",
+                    "https://i.postimg.cc/HkwmGgsh/download-2.jpg",
+                    "https://i.postimg.cc/d00JGfwN/download-4.jpg",
+                    "https://i.postimg.cc/8z00nXL0/download-5.jpg",
+                    "https://i.postimg.cc/7hr61NBC/download.jpg"
+                    
+                ],
+                "description": " consisting of butter, flour, and sugar",
+                "specification": "flour, sugar, butter, eggs, and flavorings and a filling"
+
+            },
+            {
+                "name": "Oatmeal-Rasins-Cookies",
+                "img": [
+                    "https://i.postimg.cc/85tKMyk4/download-1.jpg",
+                    "https://i.postimg.cc/Z5wxf9zY/download-2.jpg",
+                    "https://i.postimg.cc/t4ssj7V4/download-3.jpg",
+                    "https://i.postimg.cc/zGhq7hgK/download.jpg",
+                    "https://i.postimg.cc/Fzw2kPGq/images.jpg"
+                    
+                ],
+                "description": "a type of drop cookie made from an oatmeal-based dough with raisins",
+                "specification": "flour, oats, butter, sugar (both granulated and brown), eggs, vanilla extract, baking soda, and spices like cinnamon and nutmeg. Raisins are, of course, a key ingredient"
+
+            },
+            {
+                "name": "Gingerbread-Cookies",
+                "img": [
+                    "https://i.postimg.cc/MTxCYtc4/images-1.jpg",
+                    "https://i.postimg.cc/mrhjWHvD/images-2.jpg",
+                    "https://i.postimg.cc/NMdQ9ZNb/images-3.jpg",
+                    "https://i.postimg.cc/XY2Mg9K7/images-4.jpg",
+                    "https://i.postimg.cc/mkVVGygP/images.jpg"
+                    
+                ],
+                "description": "sweet baked goods, typically cookies or cakes, flavored with ginger and other spices like cinnamon, cloves, and nutmeg, and sweetened with honey or molasses",
+                "specification": "flour, spices (ginger, cinnamon, nutmeg, cloves), a sweetener (brown sugar, molasses, or golden syrup), and leavening agents like baking soda or baking powder"
+
+            }
+        ],
+        "pies" : [
+            {
+                "name": "Cream-Pies",
+                "img": [
+                    "https://i.postimg.cc/y8RSRk6r/download-1.jpg",
+                    "https://i.postimg.cc/WzJsyqHB/download.jpg",
+                    "https://i.postimg.cc/prNdRBzW/images-1.jpg",
+                    "https://i.postimg.cc/MKKCXQ5q/images-2.jpg",
+                    "https://i.postimg.cc/mDgY7B5z/images.jpg"
+                    
+                ],
+                "description": "a dessert featuring a one-crust pie shell filled with a rich custard or pudding",
+                "specification": "milk, cream, sugar, eggs, and sometimes flour or cornstarch for thickening. A common topping is whipped cream"
+
+            },
+            {
+                "name": "Custard-Pies",
+                "img": [
+                    "https://i.postimg.cc/d01XVPj6/download-1.jpg",
+                    "https://i.postimg.cc/vZShX157/download-2.jpg",
+                    "https://i.postimg.cc/x8CqsdvH/download.jpg",
+                    "https://i.postimg.cc/xqVDXx1C/images-1.jpg",
+                    "https://i.postimg.cc/wj6xFM9B/images.jpg"
+                    
+                ],
+                "description": "a classic dessert featuring a flaky pie crust filled with a rich, creamy, and often slightly spiced egg custard",
+                "specification": "pie crust, eggs, sugar, milk (or cream), salt, and flavorings like vanilla and/or nutmeg"
+
+            },
+            {
+                "name": "Pumpkin-Pies",
+                "img": [
+
+                    "https://i.postimg.cc/L5nLJD0r/download-1.jpg",
+                    "https://i.postimg.cc/ncwnxJ7F/download-3.jpg",
+                    "https://i.postimg.cc/fTFQFvnk/download.jpg",
+                    "https://i.postimg.cc/50ks0nmC/images-1.jpg",
+                    "https://i.postimg.cc/cL9hTFV5/images.jpg"
+                    
+                ],
+                "description": "a sweet dessert pie typically made with a spiced pumpkin-based custard filling baked in a pastry crust",
+                "specification": " sugar, pumpkin pie spice, salt,  pumpkin (not pumpkin pie mix) ,evaporated milk, beaten eggs, frozen pillsbury and deep dish pie crusts"
+
+            },
+            {
+                "name": "Fruit-Pies",
+                "img": [
+                    "https://i.postimg.cc/CL4DW483/download-4.jpg", 
+                    "https://i.postimg.cc/L86fRZBn/download.jpg", 
+                    "https://i.postimg.cc/0NhJpXgw/images-1.jpg", 
+                    "https://i.postimg.cc/NFc9nyjG/images-2.jpg", 
+                    "https://i.postimg.cc/28TbHSRm/images.jpg"
+                    
+                ],
+                "description": "a baked pastry dessert filled with various fruits",
+                "specification": "This recipe calls for eight small Granny Smith apples. Butter and flour: The filling starts with butter and all-purpose flour cooked into a paste. Sugars: A blend of white and brown sugar creates the perfect sweet flavor with a hint of warmth"
+
+            },
+            {
+                "name": "Meat-Pies",
+                "img": [
+                    "https://i.postimg.cc/ydTQtKY9/download-1.jpg",
+                    "https://i.postimg.cc/c4C99Vqg/download-2.jpg",
+                    "https://i.postimg.cc/Vkb71nkz/download-3.jpg",
+                    "https://i.postimg.cc/cCHmz8zy/download.jpg",
+                    "https://i.postimg.cc/KjHNh8XK/images.jpg"
+                    
+                ],
+                "description": "a baked pastry dish containing a savory filling of meat, often with other ingredients like vegetables and gravy",
+                "specification": "a pie crust made with flour, butter, salt, and water, and a filling of minced meat, onions, carrots, potatoes, and seasonings like thyme, garlic powder, and beef bouillon"
+
+            },
+            {
+                "name": "Pecan-Pies",
+                "img": [
+                    "https://i.postimg.cc/3NHJH2cQ/download-1.jpg",
+                    "https://i.postimg.cc/V69PnpD2/download-2.jpg",
+                    "https://i.postimg.cc/VvspM6Sb/download-3.jpg",
+                    "https://i.postimg.cc/SsSD1PmB/download.jpg",
+                    "https://i.postimg.cc/TPCr13Xs/images.jpg"
+                ],
+                "description": "a classic American dessert characterized by its rich, nutty filling and flaky, buttery crust",
+                "specification": "pecan nuts mixed with a filling of eggs, butter and sugar. Variations may include white or brown sugar, cane syrup, sugar syrup, molasses, maple syrup, or honey"
+
+            }
+        ]
+    }
+}

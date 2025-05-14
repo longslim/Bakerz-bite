@@ -1,0 +1,117 @@
+.mug_container,
+.glass_container,
+.shirt_container,
+.glasses_container,
+.bag_container {
+  padding: 2rem;
+  background-color: #fdf8f4;
+  margin-bottom: 2rem;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.mug_container h2,
+.glass_container h2,
+.shirt_container h2,
+.glasses_container h2,
+.bag_container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 1.5rem;
+  color: #B5621F;
+  text-align: center;
+}
+
+
+.mug_contain,
+.glass_contain,
+.shirt_contain,
+.glasses_contain,
+.bag_contain {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+
+.mug,
+.glass,
+.shirt,
+.glasses,
+.bag {
+  width: 100%;
+  max-width: 200px;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+  background-color: #fff;
+  transition: transform 0.3s;
+}
+
+.mug:hover,
+.glass:hover,
+.shirt:hover,
+.glasses:hover,
+.bag:hover {
+  transform: scale(1.05);
+}
+
+.mug img,
+.glass img,
+.shirt img,
+.glasses img,
+.bag img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-radius: 10px;
+}
+
+
+@media (max-width: 600px) {
+  .mug_contain,
+  .glass_contain,
+  .shirt_contain,
+  .glasses_contain,
+  .bag_contain {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+    padding: 1rem;
+  }
+
+  .mug img,
+  .glass img,
+  .shirt img,
+  .glasses img,
+  .bag img {
+    height: 160px;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+
+@media (max-width: 480px) {
+  .mug_contain,
+  .glass_contain,
+  .shirt_contain,
+  .glasses_contain,
+  .bag_contain {
+    grid-template-columns: 1fr;
+    padding: 0.5rem;
+  }
+
+  .mug img,
+  .glass img,
+  .shirt img,
+  .glasses img,
+  .bag img {
+    height: 140px;
+  }
+
+  h2 {
+    font-size: 1.3rem;
+  }
+}
