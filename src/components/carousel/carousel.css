@@ -33,7 +33,7 @@
 
 .header_text h2 {
     font-size: 4rem; 
-    padding-bottom: 20px;
+    padding-bottom: 0px;
     color: black;
     
 }
@@ -41,6 +41,7 @@
 
 .header_text p{
     font-size: 1.5rem;
+    font-weight: bold;
 }
 
 
@@ -48,11 +49,12 @@
     background: #eee;
     color: black;
     border: none;
-    padding: 10px 20px;
+    padding: 12px 30px;
     cursor: pointer;
     border-radius: 5px;
     margin-top: 10px;
     transition: ease-in-out 0.3s;
+    font-weight: bold;
 }
 
 .shop_btn:hover{

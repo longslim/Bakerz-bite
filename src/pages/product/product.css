@@ -8,7 +8,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     gap: 20px;
-    padding: 30px;
+    padding: 0px;
 }
 
 .back{
@@ -24,6 +24,7 @@
     text-align: center;
     cursor: pointer;
     width: 400px;
+    height: 360px;
     border-radius: 10px;
     transition: transform 0.3s ease-in-out;
 }
@@ -34,10 +35,11 @@
   
 .card img {
     width: 100%;
-    height: auto;
-    max-height: 200px;
+    height: 300px;
     object-fit: cover;
 }
+
+
 
 .modal_overlay {
     position: fixed;

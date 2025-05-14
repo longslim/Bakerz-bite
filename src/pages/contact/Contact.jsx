@@ -48,7 +48,7 @@ function Contact() {
                 <label>Email Address</label>
                 <input type="email" onChange={(e) => {dispatch({type: "EMAIL", payload: e.target.value})}} placeholder='enter email address' required />
                 <label>Phone Number</label>
-                <input type="number" onChange={(e) => {dispatch({type: "PHONENO", payload: e.target.value})}} placeholder='enter phone number' required />
+                <input type="tel" onChange={(e) => {dispatch({type: "PHONENO", payload: e.target.value})}} placeholder='enter phone number' required />
                 <label>Message</label>
                 <textarea name="" id="" rows="10" onChange={(e) => {dispatch({type: "MESSAGE", payload: e.target.value})}} placeholder='enter your request' required></textarea>
                 <input type="submit" value= "SUBMIT"/>
