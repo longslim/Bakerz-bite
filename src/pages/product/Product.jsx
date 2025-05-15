@@ -61,7 +61,7 @@ function Product() {
 
   return (
     <div className='product_container'>
-        <NavLink to="/" className= "back">BACK</NavLink>
+        {/* <NavLink to="/" className= "back">BACK</NavLink> */}
       <div className='search_bar'>
         <input
           type="text"

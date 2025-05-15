@@ -112,7 +112,7 @@ function Footer() {
         <h2>FEEDBACK</h2>
         <form onSubmit={handleFeedbackSubmit}>
           <input
-            type="text"
+            type="email"
             placeholder='Enter your feedback'
             value={feedback}
             onChange={(e) => setFeedback(e.target.value)}
